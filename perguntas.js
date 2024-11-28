@@ -1,35 +1,35 @@
 criaCartao(
     'Diário de Bordo', 
     'Qual foi o destino?', 
-    'Informar o destino da viagem.', 
+    'Tailândia.', 
 )
 
 criaCartao(
     'Custo da Viagem', 
     'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
-    'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente '
+    'O valor total da viagem com agência de turismo é R$8.000. 1.000 THB , é igual a R$173,54'
 )
 
 criaCartao(
     'Fato Curioso', 
     'Uma curiosidade sobre cidade/ponto turístico/país visitado!', 
-    'Informar através de um breve texto uma curiosidade.'
+    'Na Tailândia, é ilegal pisar na moeda do país, o baht, porque ela tem a imagem do rei, e isso é visto como um desrespeito à sua figura.'
 )
 
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'Informar os locais, breve resumo do que são.'
+    'Grande Palácio, Bangkok: Um dos mais impressionantes ícones da Tailândia, conhecido por sua arquitetura magnífica. Ilhas Phi Phi: Um paraíso tropical com águas cristalinas.Templo de Wat Phra That Doi Suthep, Chiang Mai:Este templo sagrado oferece uma vista espetacular da cidade de Chiang Mai.
 )
 
 criaCartao(
     'Prato Típico', 
     'Conhece o "nome do prato"?', 
-    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
+    'O Pad Thai é um prato de macarrão frito que se tornou um símbolo da culinária tailandesa. Criado na década de 1930, '
 )
 
 criaCartao(
     'Ponto de Vista', 
     'O que eu achei da viagem para ...?', 
-    'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
+    'A viagem à Tailândia foi maravilhosa, com cultura rica, belas paisagens e comida incrível. Se eu pudesse mudar algo, passaria mais tempo nas ilhas menos turísticas para fugir das multidões e aproveitar mais a tranquilidade e a natureza.'
 )
